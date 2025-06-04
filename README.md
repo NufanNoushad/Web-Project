@@ -1,13 +1,13 @@
 # Web-Project
 
-Description 💬
+What I Built & Learned 🔥
+Set up a GitHub repo on AWS GitHub to securely store my Java web app source code - because your code deserves the best home.
 
-After going through the AWS Cloud Quest CCP, I took it upon myself to put to practice what I had covered. I set up a Java web app on an EC2 instance.
+Configured Git locally with my username and email - every commit needs a signature that says, “I own this!”
 
-🎯 Purpose:
+Initialised a local repo and connected it to my remote GitHub repo — seamless syncing, zero headaches.
 
-This repo is an example of a deployed Java web apps on EC2, useful for
+Made my first commit & pushed it live to the master branch — boom, my code is now safely in the cloud.
 
-People learning cloud / devops.
-Wanting to put your AWS skills into place.
-
+Why This Works 💪
+This project isn’t just about pushing code - it’s about setting the stage for professional workflows, collaboration, and continuous integration. Knowing how to manage your code with Git & GitHub is a game changer in software development, and now I’m equipped.
