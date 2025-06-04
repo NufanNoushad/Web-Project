@@ -1,6 +1,7 @@
 # Web-Project
 
 Description 💬
+
 After going through the AWS Cloud Quest CCP, I took it upon myself to put to practice what I had covered. I set up a Java web app on an EC2 instance.
 
 🎯 Purpose
