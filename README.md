@@ -1,5 +1,5 @@
-Java Web App Deployment with AWS
-
+**Java Web App Deployment with AWS
+**
 ## What I Built & Learned 🔥
 
 - Set up a GitHub repo on AWS GitHub to securely store my Java web app source code — because your code deserves the best home.
