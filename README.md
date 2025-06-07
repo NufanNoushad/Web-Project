@@ -1,4 +1,4 @@
-# Web-Project
+Java Web App Deployment with AWS
 
 ## What I Built & Learned 🔥
 
